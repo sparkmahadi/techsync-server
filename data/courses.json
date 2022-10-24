@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "courseTitle": "Adobe Photoshop",
+        "videoDuration": 4,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 2,
+        "courseTitle": "Adobe Illustrator",
+        "videoDuration": 5,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 3,
+        "courseTitle": "Microsoft Office",
+        "videoDuration": 7,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 4,
+        "courseTitle": "Digital Marketing",
+        "videoDuration": 20,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 5,
+        "courseTitle": "Data Science",
+        "videoDuration": 72,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 6,
+        "courseTitle": "Programming",
+        "videoDuration": 80,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 7,
+        "courseTitle": "Computer Hardwares",
+        "videoDuration": 20,
+        "img": "images/computer-hardwares.png"
+    },
+    {
+        "id": 8,
+        "courseTitle": "Search Engine Optimization",
+        "videoDuration": 48,
+        "img": "images/photoshop.png"
+    }
+]

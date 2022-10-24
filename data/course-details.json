@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "courseTitle": "Adobe Photoshop",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 4,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 2,
+        "courseTitle": "Adobe Illustrator",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 5,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 3,
+        "courseTitle": "Microsoft Office",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 7,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 4,
+        "courseTitle": "Digital Marketing",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 20,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 5,
+        "courseTitle": "Data Science",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 72,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 6,
+        "courseTitle": "Programming",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 80,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 7,
+        "courseTitle": "Computer Hardwares",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 20,
+        "img": "images/photoshop.png"
+    },
+    {
+        "id": 8,
+        "courseTitle": "SEO",
+        "courseOverview": [
+            "Understanding the Basics - goes over how to navigate the interface, basic shortcut keys, adding text, working with images, and other features to get you up and running as quickly as possible.",
+            "Layers - shows you how to combine multiple images, resize them, split them apart, and add in color boxes.",
+            "Selections - starts by showing how to remove simple images from a photograph and finishes by showing how to select out strands of hair and change the background.",
+            "Color Correction - goes from simple corrections to in depth theory. It uses this theory to fix complicated photographs, change the color of a shirt from yellow to green, and even turn part of an image into black and white."
+        ],
+        "courseDetails": [
+            "Video Lessons",
+            "Manuals",
+            "Review",
+            "Final Exam",
+            "Credits",
+            "Certificate of Completion",
+            "Course Download",
+            "Online Course Access",
+            "Course Updates",
+            "All Versions Included"
+        ],
+        "videoDuration": 48,
+        "img": "images/photoshop.png"
+    }
+]
