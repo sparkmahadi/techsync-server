@@ -3,56 +3,56 @@
         "id": 1,
         "courseTitle": "Adobe Photoshop",
         "videoDuration": 4,
-        "img": "images/photoshop.png",
+        "img": "../images/photoshop.png",
         "level": "Basic"
     },
     {
         "id": 2,
         "courseTitle": "Adobe Illustrator",
         "videoDuration": 5,
-        "img": "images/photoshop.png",
+        "img": "../images/photoshop.png",
         "level": "Basic"
     },
     {
         "id": 3,
         "courseTitle": "Microsoft Office",
         "videoDuration": 7,
-        "img": "images/photoshop.png",
+        "img": "../images/photoshop.png",
         "level": "Basic"
     },
     {
         "id": 4,
         "courseTitle": "Digital Marketing",
         "videoDuration": 20,
-        "img": "images/photoshop.png",
+        "img": "../images/photoshop.png",
         "level": "Intermediate"
     },
     {
         "id": 5,
         "courseTitle": "Data Science",
         "videoDuration": 72,
-        "img": "images/photoshop.png",
+        "img": "../images/photoshop.png",
         "level": "Advanced"
     },
     {
         "id": 6,
         "courseTitle": "Programming",
         "videoDuration": 80,
-        "img": "images/photoshop.png",
+        "img": "../images/photoshop.png",
         "level": "Advanced"
     },
     {
         "id": 7,
         "courseTitle": "Computer Hardwares",
         "videoDuration": 20,
-        "img": "images/computer-hardwares.png",
+        "img": "../images/computer-hardwares.png",
         "level": "Intermediate"
     },
     {
         "id": 8,
         "courseTitle": "SEO",
         "videoDuration": 48,
-        "img": "images/photoshop.png",
+        "img": "../images/photoshop.png",
         "level": "Advanced"
     }
 ]
