@@ -17,11 +17,18 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 })
 
-app.get('/course-details/:id', (req, res)=>{
+app.get('/course-details/:id', (req, res) => {
     const id = parseInt(req.params.id);
     const selectedCourse = courseDetails.find(c => c.id === id);
     console.log(selectedCourse);
     res.send(selectedCourse);
+})
+
+app.get('/course-category/:level', (req, res) => {
+    const level = req.params.level;
+    const selectedCourses = courses.filter(course => course.level == level);
+    console.log(selectedCourses);
+    res.send(selectedCourses);
 })
 
 app.listen(port, () => {
