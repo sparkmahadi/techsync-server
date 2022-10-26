@@ -8,7 +8,8 @@ app.use(cors());
 
 const courseCategories = require('./data/category.json')
 const courses = require('./data/courses.json');
-const courseDetails = require('./data/course-details.json')
+const courseDetails = require('./data/course-details.json');
+const faq = require('./data/FAQ.json');
 
 app.get('/', (req, res) => {
     res.send('techsync data is running')
@@ -34,6 +35,10 @@ app.get('/course-category/:level', (req, res) => {
     const selectedCourses = courses.filter(course => course.level == level);
     console.log(selectedCourses);
     res.send(selectedCourses);
+})
+
+app.get('/faq', (req, res) => {
+    res.send(faq);
 })
 
 app.listen(port, () => {
