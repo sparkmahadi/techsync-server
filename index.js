@@ -10,6 +10,7 @@ const courseCategories = require('./data/category.json')
 const courses = require('./data/courses.json');
 const courseDetails = require('./data/course-details.json');
 const faq = require('./data/FAQ.json');
+const blog = require('./data/blog.json');
 
 app.get('/', (req, res) => {
     res.send('techsync data is running')
@@ -39,6 +40,10 @@ app.get('/course-category/:level', (req, res) => {
 
 app.get('/faq', (req, res) => {
     res.send(faq);
+})
+
+app.get('/blog', (req, res) => {
+    res.send(blog);
 })
 
 app.listen(port, () => {
