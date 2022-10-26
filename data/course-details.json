@@ -22,7 +22,9 @@
         ],
         "videoDuration": 4,
         "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop-banner.png"
+        "banner": "../banners/photoshop-banner.png",
+        "level": "Basic",
+        "price": 500
     },
     {
         "id": 2,
@@ -46,8 +48,10 @@
             "All Versions Included"
         ],
         "videoDuration": 5,
-        "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop-banner.png"
+        "img": "../images/illustrator.png",
+        "banner": "../banners/illustrator-banner.png",
+        "level": "Basic",
+        "price": 500
     },
     {
         "id": 3,
@@ -71,8 +75,10 @@
             "All Versions Included"
         ],
         "videoDuration": 7,
-        "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop-banner.png"
+        "img": "../images/ms-office.png",
+        "banner": "../banners/ms-office-banner.png",
+        "level": "Basic",
+        "price": 500
     },
     {
         "id": 4,
@@ -96,8 +102,10 @@
             "All Versions Included"
         ],
         "videoDuration": 20,
-        "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop.png"
+        "img": "../images/digital-marketing.png",
+        "banner": "../banners/digital-marketing-banner.png",
+        "level": "Intermediate",
+        "price": 1000
     },
     {
         "id": 5,
@@ -121,8 +129,10 @@
             "All Versions Included"
         ],
         "videoDuration": 72,
-        "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop.png"
+        "img": "../images/data-science.png",
+        "banner": "../banners/data-science-banner.png",
+        "level": "Advanced",
+        "price": 2000
     },
     {
         "id": 6,
@@ -146,8 +156,10 @@
             "All Versions Included"
         ],
         "videoDuration": 80,
-        "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop.png"
+        "img": "../images/programming.png",
+        "banner": "../banners/programming-banner.png",
+        "level": "Advanced",
+        "price": 2500
     },
     {
         "id": 7,
@@ -171,8 +183,10 @@
             "All Versions Included"
         ],
         "videoDuration": 20,
-        "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop.png"
+        "img": "../images/computer-hardware.png",
+        "banner": "../banners/computer-hardware-banner.png",
+        "level": "Intermediate",
+        "price": 1000
     },
     {
         "id": 8,
@@ -196,7 +210,9 @@
             "All Versions Included"
         ],
         "videoDuration": 48,
-        "img": "../images/photoshop.png",
-        "banner": "../banners/photoshop.png"
+        "img": "../images/seo.png",
+        "banner": "../banners/seo-banner.png",
+        "level": "Advanced",
+        "price": 1500
     }
 ]
