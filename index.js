@@ -28,6 +28,13 @@ async function run() {
         const result = await coursesCollection.find(query).toArray();
         res.send(result);
     })
+
+    // to load popular courses
+    app.get('/popularCourses', async(req, res)=>{
+        const query = {popularity: "popular"};
+        const result = await coursesCollection.find(query).toArray();
+        res.send(result);
+    })
     
     app.get('/course-categories', async(req, res) => {
         const query = {};
